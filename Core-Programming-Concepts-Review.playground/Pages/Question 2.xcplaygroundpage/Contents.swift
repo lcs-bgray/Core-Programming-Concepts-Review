@@ -18,7 +18,16 @@
  
  */
 // Answer question 2 below
-
+var commits = 1
+print("The amount of commits can change.")
+var forks = 1
+print("The amount of forks can change.")
+let yearCreated = 2018
+print("The year the repository was created will not change.")
+let monthCreated = 1
+print("The month the repository was created will not change.")
+let dayCreated = 23
+print("The day the repository was created will not change.")
 /*:
  ## Now share your understanding
  
